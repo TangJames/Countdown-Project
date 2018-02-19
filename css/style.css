@@ -1,5 +1,8 @@
 body {
-	background-color: #f6f6f6;
+	text-align: center;
+	background: #9E9E9E;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 100;
 }
 
 .countdownContainer{
@@ -15,5 +18,5 @@ body {
 }
 
 .info {
-	font-size: 80px;
+	font-size: 50px;
 }
